@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "name": "Amal",
+      "email": "aja15070@gmail.com",
+      "course": "MEARN",
+      "year": "2026",
+      "id": "7OII6Se3oF8"
+    },
+    {
+      "name": "Cool guy",
+      "email": "Aja@gmail.com",
+      "course": "ANGULAR",
+      "year": "2026",
+      "id": "Nz8IdZpu8vU"
+    },
+    {
+      "name": "Frank",
+      "email": "jell@gmail.com",
+      "course": "UIUX",
+      "year": "2025",
+      "id": "RADRtYPffbo"
+    },
+    {
+      "name": "Sun Wukong",
+      "email": "blackmyth@gmail.com",
+      "course": "ESPORTS",
+      "year": "2026",
+      "id": "zV_C58h1f5E"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
