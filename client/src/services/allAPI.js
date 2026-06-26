@@ -1,6 +1,6 @@
 import axiosConfig from "./axiosConfig"
 
-const serverURL="http://localhost:3000"
+const serverURL="https://studentdb-3ep3.onrender.com"
 
 
 //add student
